@@ -1,5 +1,5 @@
 /* WAF to find any duplicates in params */
-
+// pattern - frequency objects
 /* 
 areThereanyDuplicates(1, -2, -3) // false
 areThereanyDuplicates(1, -2, -2, 1) // true

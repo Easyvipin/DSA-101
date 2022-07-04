@@ -1,5 +1,5 @@
 // waf to check a if avg of pair is true as of given avg
-
+// pattern - multiplePointers
 /* 
 examples 
 averagePair([1,2,3],2.5) // true
