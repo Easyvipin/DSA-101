@@ -1,5 +1,7 @@
 // waf write a function to check if the two no has the same frequency of digits.
 
+// pattern - frequency objects
+
 // sameFrequency(182,281) // true
 // sameFrequency(1821,281) // false
 
@@ -20,9 +22,6 @@ function sameFrequency(noOne, noTwo) {
   for (let b of noTwoArry) {
     rightObj[`${b}`] = (rightObj[`${b}`] || 0) + 1;
   }
-
-  console.log(leftObj);
-  console.log(rightObj);
 
   for (let key in leftObj) {
     console.log(key);
