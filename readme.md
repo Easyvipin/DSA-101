@@ -7,7 +7,7 @@
 - [x] Various Problems solving pattern
   - [x] frequency
   - [x] Multiple Pointers
-  - [ ] Sliding window
+  - [x] Sliding window
   - [ ] Divide and Conquer
 - [ ] Recursion
 - [ ] Searching Algorithm
